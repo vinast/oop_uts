@@ -30,7 +30,7 @@ public class App {
         System.out.println("Nama Dosen          : "+ dsn.getName());
         System.out.println("NIP  Dosen          : "+ dsn.getNIP());
         System.out.println("NIDN                : " +dsn.getNIDN());
-        System.out.println("Jurusan             : " + dsn.getProdi());
+        System.out.println("Program Studi       : " + dsn.getProdi());
         System.out.println("TTL                 : "+ dsn.getTanggalLahir());
         System.out.println("Alamat              : "+ dsn.getAlamat());
         System.out.println("Tahun Masuk         : "+ dsn.getThnMasuk());
