@@ -25,7 +25,8 @@ public class App {
         System.out.println("Gaji Lembur(20jam)  : "+ tndk.lembur(20));
         System.out.println("Gaji Keseluruhan    : "+ tndk.gajiTotal(20));
 
-        System.out.println("\n");
+        System.out.println();
+        System.out.println();
         System.out.println("Nama Dosen          : "+ dsn.getName());
         System.out.println("NIP  Dosen          : "+ dsn.getNIP());
         System.out.println("NIDN                : " +dsn.getNIDN());
