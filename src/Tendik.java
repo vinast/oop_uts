@@ -1,6 +1,5 @@
 public class Tendik extends Karyawan{
     protected int total;
-
     @Override
     public int gajiPokok() {
         return super.gajiPokok();
